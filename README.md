@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Daniel, desarrollador Android
+<h1 align="center">Hola, soy <a href="https://danieldevsite.lovable.app">Daniel (DanielitoCode)</a> 👋</h1>
 
 <div align="center">
 <img src="/./banner.png" align="center" width="100%"/>
