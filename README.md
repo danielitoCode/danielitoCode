@@ -3,7 +3,8 @@
 <div align="center">
 <img src="/./banner.png" align="center" width="100%"/>
 </div>
-
+<br>
+<br>
 Apasionado por crear apps móviles intuitivas y escalables con Kotlin y Jetpack. Siempre explorando nuevas formas de mejorar la experiencia del usuario. 🚀
 ##🔧 Stack Técnico
 
