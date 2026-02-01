@@ -5,8 +5,9 @@
 </div>
 <br>
 <br>
-<p align="center">Apasionado por crear apps móviles intuitivas y escalables con Kotlin y Jetpack. Siempre explorando nuevas formas de mejorar la experiencia del usuario. 🚀
-##🔧 Stack Técnico</p>
+## Sobre mi
+Apasionado por crear apps móviles intuitivas y escalables con Kotlin y Jetpack. Siempre explorando nuevas formas de mejorar la experiencia del usuario. 🚀
+##🔧 Stack Técnico
 
 **Lenguajes**: Kotlin (principal), C# y JavaScript
 
