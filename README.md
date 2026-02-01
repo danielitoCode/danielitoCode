@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Daniel, desarrollador Android
 
 <div align="center">
-<img src="/./banner.png" align="center" width="50%"/>
+<img src="/./banner.png" align="center" width="100%"/>
 </div>
 
 Apasionado por crear apps móviles intuitivas y escalables con Kotlin y Jetpack. Siempre explorando nuevas formas de mejorar la experiencia del usuario. 🚀
