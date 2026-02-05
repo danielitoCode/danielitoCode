@@ -17,14 +17,11 @@
 <a href="https://developer.android.com" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" /> </a>
 <a href="https://kotlinlang.org/docs/multiplatform.html" target="_blank"> <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin-multiplatform" /> </a>
 <a href="https://developer.android.com/jetpack/compose" target="_blank"> <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="jetpack-compose" /> </a>
-
-<!-- Herramientas de desarrollo -->
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" /> </a>
-<a href="https://codesandbox.io/u/marisabrantley" target="_blank"> <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=white" alt="codesandbox" /> </a>
-<a href="#target="_blank"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" /> </a>
-
-</p> <br>
+<a href="https://codesandbox.io/u/marisabrantley" target="_blank"> <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=white" alt="codesandbox" />
+</p> 
+ <br>
 
 **Lenguajes**: Kotlin (principal), C# y JavaScript
 
