@@ -8,7 +8,7 @@
 
 ## Sobre mi
 
-#### Apasionado por crear apps móviles intuitivas y escalables con Kotlin y Jetpack. Siempre explorando nuevas formas de mejorar la experiencia del usuario. 🚀
+#### Android developer enfocado en **Kotlin**, **Jetpack Compose** y **Kotlin Multiplatform (KMP)**. Me encanta crear experiencias móviles intuitivas y escalables, y llevarlas a múltiples plataformas con una base de código compartida. 🚀
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -18,7 +18,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /> </a>
-<a href="https://svelte.dev/" target="_blank"> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="svelte" /> </a>
+</p>
 
 ### **Mobile (Android/Kotlin)**
 <p align="left">
@@ -27,6 +27,7 @@
 <a href="https://kotlinlang.org/docs/multiplatform.html" target="_blank"> <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin-multiplatform" /> </a>
 <a href="https://developer.android.com/jetpack/compose" target="_blank"> <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="jetpack-compose" /> </a>
 <a href="https://developer.android.com/jetpack" target="_blank"> <img src="https://img.shields.io/badge/Android_Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="android-jetpack" /> </a>
+<a href="https://svelte.dev/" target="_blank"> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="svelte" /> </a>
 </p>
 
 ### **Design & Tools**
@@ -41,90 +42,65 @@
 </p>
 
 
-##📱 Proyectos Destacados
+## 📱 Proyectos Destacados
 Aquí algunos de mis repositorios favoritos. ¡Echa un vistazo!
 <br>
+
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">ComposeSvelte</h3>
+<h3 align="center">Deluxe</h3>
 <div align="center">
-<a href="https://github.com/danielitoCode/compose_svelted" target="_blank"><img src="https://github.com/danielitoCode/compose_svelted/blob/master/docs/assets/svelted.png?raw=true" width="400" alt="ComposeSvelted"></a>
-<p>Libreria Compose-like para Svelte <strong>Reduzca la curva de aprendizaje si eres android dev y quieres dar un paseo por un ecosistema web</strong> - La forma declarativa de ralizar interfazes de usuario hermosas e intuitiva de Jetpack Compose se traduce al ecosistema web de una forma tan similar que parecera que aun estas en android</p>
+<a href="https://github.com/danielitoCode/Deluxe" target="_blank"><img src="/./logo_brand.png" width="400" alt="Deluxe"></a>
+<p>App Android con enfoque en diseño cuidado y rendimiento, construida con <strong>Kotlin</strong> y <strong>Jetpack Compose</strong>.</p>
+<p>
+<a href="https://github.com/danielitoCode/Deluxe" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
 </div>
-                                                                                      
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center">Arquitectura MVVM</h3>
-<div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">AppMakeUp</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/danielitoCode/AppMakeUp" target="_blank"><img src="/./logo__upscayl_5x_upscayl-standard-4x.png" width="400" alt="AppMakeUp"></a>
+<p>Proyecto mobile con UI moderna y componentes reutilizables en <strong>Compose</strong>, pensado para evolucionar a <strong>KMP</strong>.</p>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/danielitoCode/AppMakeUp" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Compose Svelted</h3>
+<div align="center">
+<a href="https://github.com/danielitoCode/compose_svelted" target="_blank"><img src="https://github.com/danielitoCode/compose_svelted/blob/master/docs/assets/svelted.png?raw=true" width="400" alt="Compose Svelted"></a>
+<p>Librería <strong>Compose-like</strong> para Svelte. Lleva el estilo declarativo de Jetpack Compose al ecosistema web con una API familiar para Android devs.</p>
+<p>
+<a href="https://github.com/danielitoCode/compose_svelted" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
 </div>
-                                                                                      
-</td>       
+</td>
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Stack principal</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p><strong>Kotlin · Jetpack Compose · KMP · Coroutines · Flow · MVVM</strong></p>
+<p>Siempre priorizando arquitectura limpia, performance y una UX fluida.</p>
 </div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
+</td>
+</tr>
+</table>
 <br>
 
-
-
-
-ProyectoDescripciónTecnologíasMiAppEjemploApp de notas con sincronización en la nube.Kotlin, Jetpack Compose, FirebaseEcommerceMobileTienda online con carrito y pagos integrados.Retrofit, Hilt, RoomWeatherAppApp meteorológica con API de OpenWeather.Coroutines, MVVM, Material Design
-
 **¡Colabora! Si te gusta algún proyecto, abre un PR o issue. 😊**
-📊 GitHub Stats
-Tu GitHub Stats
-Top Langs
-🌟 Contribuciones
-GitHub Streak
 📫 Conéctate
 
 📧 **Email:** *daniel.imbert96@gmail.com*
