@@ -63,7 +63,7 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
       <h3 align="center">Deluxe</h3>
       <a href="https://github.com/danielitoCode/Deluxe" target="_blank">
         <div style="height:200px;overflow:hidden">
-          <img src="./deluxe.png" width="100%" alt="Deluxe" />
+          <img src="./deluxe2.png" width="100%" alt="Deluxe" />
         </div>
       </a>
       <p>App Android para joyerías (catálogo/gestión). Proyecto enfocado en UI y flujo de producto.</p>
