@@ -43,52 +43,46 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
 
 <table>
   <tr>
-    <td width="50%">
+    <td align="center" width="50%">
       <h3 align="center">AlejoTaller</h3>
-      <div align="center">
-        <a href="https://github.com/danielitoCode/AlejoTaller" target="_blank">
-          <img src="./alejotaller.png" width="400" alt="AlejoTaller" />
-        </a>
-        <p>Mi proyecto Android mas desarrollado: arquitectura modular (features + core), DI y persistencia local, con backend en Appwrite.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-          <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-          <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Room" />
-          <img src="https://img.shields.io/badge/Koin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Koin" />
-          <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-        </p>
-      </div>
+      <a href="https://github.com/danielitoCode/AlejoTaller" target="_blank">
+        <img src="./alejotaller.png" height="200" width="100%" style="object-fit:cover" alt="AlejoTaller" />
+      </a>
+      <p>Mi proyecto Android mas desarrollado: arquitectura modular (features + core), DI y persistencia local, con backend en Appwrite.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Room" />
+        <img src="https://img.shields.io/badge/Koin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Koin" />
+        <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
+      </p>
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
       <h3 align="center">Deluxe</h3>
-      <div align="center">
-        <a href="https://github.com/danielitoCode/Deluxe" target="_blank">
-          <img src="./deluxe.png" width="400" alt="Deluxe" />
-        </a>
-        <p>App Android para joyerías (catálogo/gestión). Proyecto enfocado en UI y flujo de producto.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-          <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-        </p>
-      </div>
+      <a href="https://github.com/danielitoCode/Deluxe" target="_blank">
+        <img src="./deluxe.png" height="200" width="100%" style="object-fit:cover" alt="Deluxe" />
+      </a>
+      <p>App Android para joyerías (catálogo/gestión). Proyecto enfocado en UI y flujo de producto.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td align="center" width="50%">
       <h3 align="center">Iris 🔬 <em>(experimental)</em></h3>
-      <div align="center">
-        <a href="https://github.com/danielitoCode/Iris" target="_blank">
-          <img src="./iris.svg" width="400" alt="Iris" />
-        </a>
-        <p>Proyecto experimental de detección de objetos con IA local usando <strong>YOLO11s</strong> — inferencia completamente on-device, sin servidor.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-          <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-          <img src="https://img.shields.io/badge/YOLO11s-111827?style=for-the-badge&logo=opencv&logoColor=white" alt="YOLO11s" />
-          <img src="https://img.shields.io/badge/On--device_AI-0B5FFF?style=for-the-badge&logo=ai&logoColor=white" alt="On-device AI" />
-          <img src="https://img.shields.io/badge/CameraX-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="CameraX" />
-        </p>
-      </div>
+      <a href="https://github.com/danielitoCode/Iris" target="_blank">
+        <img src="./iris.svg" height="200" width="100%" style="object-fit:cover" alt="Iris" />
+      </a>
+      <p>Proyecto experimental de detección de objetos con IA local usando <strong>YOLO11s</strong> — inferencia completamente on-device, sin servidor.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/YOLO11s-111827?style=for-the-badge&logo=opencv&logoColor=white" alt="YOLO11s" />
+        <img src="https://img.shields.io/badge/On--device_AI-0B5FFF?style=for-the-badge&logo=ai&logoColor=white" alt="On-device AI" />
+        <img src="https://img.shields.io/badge/CameraX-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="CameraX" />
+      </p>
     </td>
     <td width="50%"></td>
   </tr>
@@ -98,33 +92,29 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
 
 <table>
   <tr>
-    <td width="50%">
+    <td align="center" width="50%">
       <h3 align="center">AppMakeUp</h3>
-      <div align="center">
-        <a href="https://github.com/danielitoCode/AppMakeup" target="_blank">
-          <img src="./appmakeup.svg" width="400" alt="AppMakeUp" />
-        </a>
-        <p>Tooling para modelar y generar estructuras base de apps de forma predecible (architecture-first).</p>
-        <p>
-          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-          <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" />
-          <img src="https://img.shields.io/badge/Compose_Desktop-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Compose Desktop" />
-        </p>
-      </div>
+      <a href="https://github.com/danielitoCode/AppMakeup" target="_blank">
+        <img src="./appmakeup.svg" height="200" width="100%" style="object-fit:cover" alt="AppMakeUp" />
+      </a>
+      <p>Tooling para modelar y generar estructuras base de apps de forma predecible (architecture-first).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" />
+        <img src="https://img.shields.io/badge/Compose_Desktop-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Compose Desktop" />
+      </p>
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
       <h3 align="center">compose_svelted</h3>
-      <div align="center">
-        <a href="https://github.com/danielitoCode/compose_svelted" target="_blank">
-          <img src="./svelted.png" width="400" alt="compose_svelted" />
-        </a>
-        <p>UI framework para Svelte inspirado en Jetpack Compose: layout declarativo, modifiers inmutables y navegación tipo Compose.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-        </p>
-      </div>
+      <a href="https://github.com/danielitoCode/compose_svelted" target="_blank">
+        <img src="./svelted.png" height="200" width="100%" style="object-fit:cover" alt="compose_svelted" />
+      </a>
+      <p>UI framework para Svelte inspirado en Jetpack Compose: layout declarativo, modifiers inmutables y navegación tipo Compose.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      </p>
     </td>
   </tr>
 </table>
@@ -133,20 +123,18 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
 
 <table>
   <tr>
-    <td width="50%">
+    <td align="center" width="50%">
       <h3 align="center">dash_alejo_taller</h3>
-      <div align="center">
-        <a href="https://github.com/danielitoCode/dash_alejo_taller" target="_blank">
-          <img src="./alejo_taller_dash.png" width="400" alt="dash_alejo_taller" />
-        </a>
-        <p>Aplicación web en Svelte complementaria para <strong>AlejoTaller</strong>: gestión de productos a la venta para la tienda de electrónica.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-          <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-        </p>
-      </div>
+      <a href="https://github.com/danielitoCode/dash_alejo_taller" target="_blank">
+        <img src="./alejo_taller_dash.png" height="200" width="100%" style="object-fit:cover" alt="dash_alejo_taller" />
+      </a>
+      <p>Aplicación web en Svelte complementaria para <strong>AlejoTaller</strong>: gestión de productos a la venta para la tienda de electrónica.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      </p>
     </td>
     <td width="50%"></td>
   </tr>
@@ -156,65 +144,57 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
 
 <table>
   <tr>
-    <td width="50%">
+    <td align="center" width="50%">
       <h3 align="center">starter-function</h3>
-      <div align="center">
-        <a href="https://github.com/danielitoCode/starter-function" target="_blank">
-          <img src="./logo_brand.png" width="400" alt="starter-function" />
-        </a>
-        <p>Plantilla/arranque para funciones serverless y Workers (ideal para APIs ligeras y automatizaciones).</p>
-        <p>
-          <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
-          <img src="https://img.shields.io/badge/Wrangler-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Wrangler" />
-          <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-        </p>
-      </div>
+      <a href="https://github.com/danielitoCode/starter-function" target="_blank">
+        <img src="./logo_brand.png" height="200" width="100%" style="object-fit:cover" alt="starter-function" />
+      </a>
+      <p>Plantilla/arranque para funciones serverless y Workers (ideal para APIs ligeras y automatizaciones).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+        <img src="https://img.shields.io/badge/Wrangler-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Wrangler" />
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      </p>
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
       <h3 align="center">google_auth_appwrite</h3>
-      <div align="center">
-        <a href="https://github.com/danielitoCode/google_auth_appwrite" target="_blank">
-          <img src="./logo_brand.png" width="400" alt="google_auth_appwrite" />
-        </a>
-        <p>Cloudflare Worker que implementa un flujo de autenticación con Google OAuth para <strong>Appwrite BaaS</strong>.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-          <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth" />
-        </p>
-      </div>
+      <a href="https://github.com/danielitoCode/google_auth_appwrite" target="_blank">
+        <img src="./logo_brand.png" height="200" width="100%" style="object-fit:cover" alt="google_auth_appwrite" />
+      </a>
+      <p>Cloudflare Worker que implementa un flujo de autenticación con Google OAuth para <strong>Appwrite BaaS</strong>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
+        <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td align="center" width="50%">
       <h3 align="center">telegram_messages</h3>
-      <div align="center">
-        <a href="https://github.com/danielitoCode/telegram_messages" target="_blank">
-          <img src="./logo_brand.png" width="400" alt="telegram_messages" />
-        </a>
-        <p>Función Node.js para enviar mensajes a un grupo de Telegram desde el backend, usando el BotFather API.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-          <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-          <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-        </p>
-      </div>
+      <a href="https://github.com/danielitoCode/telegram_messages" target="_blank">
+        <img src="./logo_brand.png" height="200" width="100%" style="object-fit:cover" alt="telegram_messages" />
+      </a>
+      <p>Función Node.js para enviar mensajes a un grupo de Telegram desde el backend, usando el BotFather API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+        <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
+      </p>
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
       <h3 align="center">list_users</h3>
-      <div align="center">
-        <a href="https://github.com/danielitoCode/list_users" target="_blank">
-          <img src="./logo_brand.png" width="400" alt="list_users" />
-        </a>
-        <p>Función serverless en Appwrite para listar usuarios con control de acceso por rol <strong>Admin</strong>.</p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        </p>
-      </div>
+      <a href="https://github.com/danielitoCode/list_users" target="_blank">
+        <img src="./logo_brand.png" height="200" width="100%" style="object-fit:cover" alt="list_users" />
+      </a>
+      <p>Función serverless en Appwrite para listar usuarios con control de acceso por rol <strong>Admin</strong>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      </p>
     </td>
   </tr>
 </table>
