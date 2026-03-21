@@ -46,7 +46,9 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
     <td align="center" width="50%">
       <h3 align="center">AlejoTaller</h3>
       <a href="https://github.com/danielitoCode/AlejoTaller" target="_blank">
-        <img src="./alejotaller.png" height="200" width="100%" style="object-fit:cover" alt="AlejoTaller" />
+        <div style="height:200px;overflow:hidden">
+          <img src="./alejotaller.png" width="100%" alt="AlejoTaller" />
+        </div>
       </a>
       <p>Mi proyecto Android mas desarrollado: arquitectura modular (features + core), DI y persistencia local, con backend en Appwrite.</p>
       <p>
@@ -60,7 +62,9 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
     <td align="center" width="50%">
       <h3 align="center">Deluxe</h3>
       <a href="https://github.com/danielitoCode/Deluxe" target="_blank">
-        <img src="./deluxe.png" height="200" width="100%" style="object-fit:cover" alt="Deluxe" />
+        <div style="height:200px;overflow:hidden">
+          <img src="./deluxe.png" width="100%" alt="Deluxe" />
+        </div>
       </a>
       <p>App Android para joyerías (catálogo/gestión). Proyecto enfocado en UI y flujo de producto.</p>
       <p>
@@ -73,7 +77,9 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
     <td align="center" width="50%">
       <h3 align="center">Iris 🔬 <em>(experimental)</em></h3>
       <a href="https://github.com/danielitoCode/Iris" target="_blank">
-        <img src="./iris.svg" height="200" width="100%" style="object-fit:cover" alt="Iris" />
+        <div style="height:200px;overflow:hidden">
+          <img src="./iris.svg" width="100%" alt="Iris" />
+        </div>
       </a>
       <p>Proyecto experimental de detección de objetos con IA local usando <strong>YOLO11s</strong> — inferencia completamente on-device, sin servidor.</p>
       <p>
@@ -95,7 +101,9 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
     <td align="center" width="50%">
       <h3 align="center">AppMakeUp</h3>
       <a href="https://github.com/danielitoCode/AppMakeup" target="_blank">
-        <img src="./appmakeup.svg" height="200" width="100%" style="object-fit:cover" alt="AppMakeUp" />
+        <div style="height:200px;overflow:hidden">
+          <img src="./appmakeup.svg" width="100%" alt="AppMakeUp" />
+        </div>
       </a>
       <p>Tooling para modelar y generar estructuras base de apps de forma predecible (architecture-first).</p>
       <p>
@@ -107,7 +115,9 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
     <td align="center" width="50%">
       <h3 align="center">compose_svelted</h3>
       <a href="https://github.com/danielitoCode/compose_svelted" target="_blank">
-        <img src="./svelted.png" height="200" width="100%" style="object-fit:cover" alt="compose_svelted" />
+        <div style="height:200px;overflow:hidden">
+          <img src="./svelted.png" width="100%" alt="compose_svelted" />
+        </div>
       </a>
       <p>UI framework para Svelte inspirado en Jetpack Compose: layout declarativo, modifiers inmutables y navegación tipo Compose.</p>
       <p>
@@ -126,7 +136,9 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
     <td align="center" width="50%">
       <h3 align="center">dash_alejo_taller</h3>
       <a href="https://github.com/danielitoCode/dash_alejo_taller" target="_blank">
-        <img src="./alejo_taller_dash.png" height="200" width="100%" style="object-fit:cover" alt="dash_alejo_taller" />
+        <div style="height:200px;overflow:hidden">
+          <img src="./alejo_taller_dash.png" width="100%" alt="dash_alejo_taller" />
+        </div>
       </a>
       <p>Aplicación web en Svelte complementaria para <strong>AlejoTaller</strong>: gestión de productos a la venta para la tienda de electrónica.</p>
       <p>
@@ -147,7 +159,9 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
     <td align="center" width="50%">
       <h3 align="center">starter-function</h3>
       <a href="https://github.com/danielitoCode/starter-function" target="_blank">
-        <img src="./logo_brand.png" height="200" width="100%" style="object-fit:cover" alt="starter-function" />
+        <div style="height:200px;overflow:hidden">
+          <img src="./logo_brand.png" width="100%" alt="starter-function" />
+        </div>
       </a>
       <p>Plantilla/arranque para funciones serverless y Workers (ideal para APIs ligeras y automatizaciones).</p>
       <p>
@@ -159,7 +173,9 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
     <td align="center" width="50%">
       <h3 align="center">google_auth_appwrite</h3>
       <a href="https://github.com/danielitoCode/google_auth_appwrite" target="_blank">
-        <img src="./logo_brand.png" height="200" width="100%" style="object-fit:cover" alt="google_auth_appwrite" />
+        <div style="height:200px;overflow:hidden">
+          <img src="./logo_brand.png" width="100%" alt="google_auth_appwrite" />
+        </div>
       </a>
       <p>Cloudflare Worker que implementa un flujo de autenticación con Google OAuth para <strong>Appwrite BaaS</strong>.</p>
       <p>
@@ -174,7 +190,9 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
     <td align="center" width="50%">
       <h3 align="center">telegram_messages</h3>
       <a href="https://github.com/danielitoCode/telegram_messages" target="_blank">
-        <img src="./logo_brand.png" height="200" width="100%" style="object-fit:cover" alt="telegram_messages" />
+        <div style="height:200px;overflow:hidden">
+          <img src="./logo_brand.png" width="100%" alt="telegram_messages" />
+        </div>
       </a>
       <p>Función Node.js para enviar mensajes a un grupo de Telegram desde el backend, usando el BotFather API.</p>
       <p>
@@ -187,7 +205,9 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
     <td align="center" width="50%">
       <h3 align="center">list_users</h3>
       <a href="https://github.com/danielitoCode/list_users" target="_blank">
-        <img src="./logo_brand.png" height="200" width="100%" style="object-fit:cover" alt="list_users" />
+        <div style="height:200px;overflow:hidden">
+          <img src="./logo_brand.png" width="100%" alt="list_users" />
+        </div>
       </a>
       <p>Función serverless en Appwrite para listar usuarios con control de acceso por rol <strong>Admin</strong>.</p>
       <p>
