@@ -1,12 +1,12 @@
-<h1 align="left">Hola, soy <a href="https://danieldevsite.lovable.app">Daniel (DanielitoCode)</a></h1>
+<h1 align="left">Hello, I am <a href="https://danieldevsite.lovable.app">Daniel (DanielitoCode)</a></h1>
 
 <div align="center">
   <img src="./banner.png" align="center" width="100%" alt="Banner" />
 </div>
 
-## Sobre mi
+## About me
 
-Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herramientas para construir productos escalables. En paralelo, construyo side projects web con Svelte.
+Android Developer (Kotlin) focused on architecture, best practices, and tools to build scalable products. At the same time, I develop web side projects with Svelte..
 
 <h2 align="left">Languages and Tools</h2>
 
@@ -50,7 +50,7 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
           <img src="./alejotaller.png" width="100%" alt="AlejoTaller" />
         </div>
       </a>
-      <p>Mi proyecto Android mas desarrollado: arquitectura modular (features + core), DI y persistencia local, con backend en Appwrite.</p>
+      <p>My most developed Android project: modular architecture (features + core), DI and local persistence, with a backend in Appwrite.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
@@ -66,7 +66,7 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
           <img src="./deluxe2.png" width="100%" alt="Deluxe" />
         </div>
       </a>
-      <p>App Android para joyerías (catálogo/gestión). Proyecto enfocado en UI y flujo de producto.</p>
+      <p>Android app for jewelry stores (catalog/management). Project focused on UI and product flow.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
@@ -81,7 +81,7 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
           <img src="./iris.svg" width="100%" alt="Iris" />
         </div>
       </a>
-      <p>Proyecto experimental de detección de objetos con IA local usando <strong>YOLO11s</strong> — inferencia completamente on-device, sin servidor.</p>
+      <p>Experimental project for object detection with local AI using <strong>YOLO11s</strong> — fully on-device inference, no server.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
@@ -94,7 +94,7 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
   </tr>
 </table>
 
-## Proyectos en desarrollo
+## Projects in development
 
 <table>
   <tr>
@@ -105,7 +105,7 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
           <img src="./appmakeup.svg" width="100%" alt="AppMakeUp" />
         </div>
       </a>
-      <p>Tooling para modelar y generar estructuras base de apps de forma predecible (architecture-first).</p>
+      <p>Tooling to model and generate base structures of apps in a predictable way (architecture-first).</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
         <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" />
@@ -119,7 +119,7 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
           <img src="./svelted.png" width="100%" alt="compose_svelted" />
         </div>
       </a>
-      <p>UI framework para Svelte inspirado en Jetpack Compose: layout declarativo, modifiers inmutables y navegación tipo Compose.</p>
+      <p>UI framework for Svelte inspired by Jetpack Compose: declarative layout, immutable modifiers, and Compose-style navigation.</p>
       <p>
         <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -140,7 +140,7 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
           <img src="./alejo_taller_dash.png" width="100%" alt="dash_alejo_taller" />
         </div>
       </a>
-      <p>Aplicación web en Svelte complementaria para <strong>AlejoTaller</strong>: gestión de productos a la venta para la tienda de electrónica.</p>
+      <p>Complementary web application in Svelte for <strong>AlejoTaller</strong>: management of products for sale for the electronics store.</p>
       <p>
         <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -163,7 +163,7 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
           <img src="./logo_brand.png" width="100%" alt="starter-function" />
         </div>
       </a>
-      <p>Plantilla/arranque para funciones serverless y Workers (ideal para APIs ligeras y automatizaciones).</p>
+      <p>Template/starter for serverless functions and Workers (ideal for lightweight APIs and automations).</p>
       <p>
         <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
         <img src="https://img.shields.io/badge/Wrangler-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Wrangler" />
@@ -177,7 +177,7 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
           <img src="./logo_brand.png" width="100%" alt="google_auth_appwrite" />
         </div>
       </a>
-      <p>Cloudflare Worker que implementa un flujo de autenticación con Google OAuth para <strong>Appwrite BaaS</strong>.</p>
+      <p>Cloudflare Worker that implements an authentication flow with Google OAuth for <strong>Appwrite BaaS</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -194,7 +194,7 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
           <img src="./logo_brand.png" width="100%" alt="telegram_messages" />
         </div>
       </a>
-      <p>Función Node.js para enviar mensajes a un grupo de Telegram desde el backend, usando el BotFather API.</p>
+      <p>Node.js function to send messages to a Telegram group from the backend, using the BotFather API.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -209,7 +209,7 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
           <img src="./logo_brand.png" width="100%" alt="list_users" />
         </div>
       </a>
-      <p>Función serverless en Appwrite para listar usuarios con control de acceso por rol <strong>Admin</strong>.</p>
+      <p>Serverless function in Appwrite to list users with access control by <strong>Admin</strong> role.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
@@ -221,9 +221,9 @@ Desarrollador Android (Kotlin) enfocado en arquitectura, buenas practicas y herr
 
 ---
 
-## Conectate
+## Connect
 
 - Email: `daniel.imbert96@gmail.com`
 - LinkedIn: `www.linkedin.com/in/daniel-imbert-68b4952b4`
 
-Ultima actualizacion: marzo 2026
+Last update: marzo 2026
