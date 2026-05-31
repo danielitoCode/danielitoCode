@@ -55,8 +55,6 @@ Android Developer (Kotlin) focused on architecture, best practices, and tools to
         <img src="https://img.shields.io/badge/Kotlin-2.x-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Android-OpenGL_ES_3.0-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
         <img src="https://img.shields.io/badge/3D_Engine-Spatial-blueviolet?style=for-the-badge&logo=opengl&logoColor=white" />
-        <img src="https://img.shields.io/badge/Rendering-Real_Time-orange?style=for-the-badge&logo=opengl&logoColor=white" />
-        <img src="https://img.shields.io/badge/Architecture-Declarative-success?style=for-the-badge" />
       </p>
     </td>
     <td align="center" width="50%">
