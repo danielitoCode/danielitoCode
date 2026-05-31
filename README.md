@@ -44,13 +44,29 @@ Android Developer (Kotlin) focused on architecture, best practices, and tools to
 <table>
   <tr>
     <td align="center" width="50%">
+      <h3 align="center">Spatial</h3>
+      <a href="https://github.com/danielitoCode/Spatial" target="_blank">
+        <div style="height:200px;overflow:hidden">
+          <img src="./spatial.png" width="100%" alt="AlejoTaller" />
+        </div>
+      </a>
+      <p>No-Pain OpenGL. 3D Powered by Compose Spirit: Spatial is a declarative 3D rendering library for Android, inspired by Jetpack Compose.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-2.x-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-OpenGL_ES_3.0-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/3D_Engine-Spatial-blueviolet?style=for-the-badge&logo=opengl&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rendering-Real_Time-orange?style=for-the-badge&logo=opengl&logoColor=white" />
+        <img src="https://img.shields.io/badge/Architecture-Declarative-success?style=for-the-badge" />
+      </p>
+    </td>
+    <td align="center" width="50%">
       <h3 align="center">AlejoTaller</h3>
       <a href="https://github.com/danielitoCode/AlejoTaller" target="_blank">
         <div style="height:200px;overflow:hidden">
           <img src="./alejotaller.png" width="100%" alt="AlejoTaller" />
         </div>
       </a>
-      <p>My most developed Android project: modular architecture (features + core), DI and local persistence, with a backend in Appwrite.</p>
+      <p>Android project: modular architecture (features + core), DI and local persistence, with a backend in Appwrite.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
@@ -59,6 +75,24 @@ Android Developer (Kotlin) focused on architecture, best practices, and tools to
         <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
       </p>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+  <h3 align="center">SatExplorer</h3>
+  <a href="https://github.com/danielitoCode/SatExplorer" target="_blank">
+    <div style="height:200px;overflow:hidden">
+      <img src="./satexplorer_preview.png" width="100%" alt="SatExplorer" />
+    </div>
+  </a>
+  <p>Visualización 3D inmersiva de satélites y órbitas en tiempo real. Construido con <strong>Spatial</strong> OpenGL ES 3.0, Jetpack Compose and Koin.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+    <img src="https://img.shields.io/badge/Spatial-00D4FF?style=for-the-badge&logo=threed&logoColor=white" alt="Spatial" />
+    <img src="https://img.shields.io/badge/OpenGL_ES_3-FF6F00?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL ES 3" />
+    <img src="https://img.shields.io/badge/Real--time_Orbits-00BFFF?style=for-the-badge&logo=satellite&logoColor=white" alt="Real-time Orbits" />
+  </p>
+</td>
     <td align="center" width="50%">
       <h3 align="center">Deluxe</h3>
       <a href="https://github.com/danielitoCode/Deluxe" target="_blank">
@@ -93,7 +127,7 @@ Android Developer (Kotlin) focused on architecture, best practices, and tools to
         <img src="https://img.shields.io/badge/CameraX-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="CameraX" />
       </p>
     </td>
-    <td width="50%"></td>
+    <td width="50%"/>
   </tr>
 </table>
 
