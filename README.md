@@ -1,302 +1,140 @@
-<h1 align="left">Hello, I am <a href="https://danieldevsite.lovable.app">Daniel (DanielitoCode)</a></h1>
-
+<!-- ═══════════════════ HEADER ═══════════════════ -->
 <div align="center">
-  <img src="./banner.png" align="center" width="100%" alt="Banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Daniel%20Imbert&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20%C2%B7%20Kotlin%20%C2%B7%20Architecture%20%C2%B7%20Svelte&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
+
+<a href="https://github.com/danielitoCode">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=7F52FF&center=true&vCenter=true&width=640&lines=Building+scalable+Android+products;Clean+architecture+%26+best+practices;Jetpack+Compose+%C2%B7+Kotlin+Multiplatform;Web+side+projects+with+Svelte+%26+TypeScript" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-danieldevsite-7F52FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danieldevsite.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Imbert-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-imbert-68b4952b4)
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.imbert96@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=danielitoCode&style=for-the-badge&color=7F52FF&label=PROFILE+VIEWS)
+
 </div>
 
-## About me
+---
 
-Android Developer (Kotlin) focused on architecture, best practices, and tools to build scalable products. At the same time, I develop web side projects with Svelte..
+## 👨‍💻 About me
 
-<h2 align="left">Languages and Tools</h2>
+Android developer focused on **architecture, best practices and tooling** to build products that scale.
+I design modular apps (features + core), care about predictable structure, and enjoy building the tools that make development faster. On the side, I build web products with **Svelte + TypeScript** and lightweight backends on **Appwrite, Supabase and Cloudflare Workers**.
 
-### Mobile (Android/Kotlin)
-<p align="left">
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
-  <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
-  <a href="https://kotlinlang.org/docs/multiplatform.html" target="_blank"><img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" /></a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose" /></a>
-  <a href="https://developer.android.com/jetpack" target="_blank"><img src="https://img.shields.io/badge/Android_Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Android Jetpack" /></a>
-</p>
-
-### Frontend Web
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
-  <a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" /></a>
-</p>
-
-### Baas
-<p align="left">
-  <a href="https://appwrite.io/" target="_blank"><img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" /></a>
-  <a a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
-</p>
-
-### Design & Tools
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop" /></a>
-  <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
-</p>
+| | |
+|---|---|
+| 🔭 **Currently** | Building *AlejoTaller*, *Spatial* and *AppMakeUp* |
+| 🧱 **Focus** | Modular architecture, DI, offline-first persistence |
+| 🎨 **Interests** | Declarative UI, 3D on Android, on-device AI |
+| 🌱 **Exploring** | Kotlin Multiplatform · Compose Desktop · edge/serverless |
 
 ---
 
-## Android Projects
+## 🛠️ Tech stack
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3 align="center">Spatial</h3>
-      <a href="https://github.com/danielitoCode/Spatial" target="_blank">
-        <div style="height:200px;overflow:hidden">
-          <img src="./spatial.png" width="100%" alt="AlejoTaller" />
-        </div>
-      </a>
-      <p>No-Pain OpenGL. 3D Powered by Compose Spirit: Spatial is a declarative 3D rendering library for Android, inspired by Jetpack Compose.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-2.x-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android-OpenGL_ES_3.0-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/3D_Engine-Spatial-blueviolet?style=for-the-badge&logo=opengl&logoColor=white" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3 align="center">AlejoTaller</h3>
-      <a href="https://github.com/danielitoCode/AlejoTaller" target="_blank">
-        <div style="height:200px;overflow:hidden">
-          <img src="./alejotaller.png" width="100%" alt="AlejoTaller" />
-        </div>
-      </a>
-      <p>Android project: modular architecture (features + core), DI and local persistence, with a backend in Appwrite.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-        <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Room" />
-        <img src="https://img.shields.io/badge/Koin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Koin" />
-        <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-  <h3 align="center">SatExplorer</h3>
-  <a href="https://github.com/danielitoCode/SatExplorer" target="_blank">
-    <div style="height:200px;overflow:hidden">
-      <img src="./satexplorer_preview.png" width="100%" alt="SatExplorer" />
-    </div>
-  </a>
-  <p>Visualización 3D inmersiva de satélites y órbitas en tiempo real. Construido con <strong>Spatial</strong> OpenGL ES 3.0, Jetpack Compose and Koin.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-    <img src="https://img.shields.io/badge/Spatial-00D4FF?style=for-the-badge&logo=threed&logoColor=white" alt="Spatial" />
-    <img src="https://img.shields.io/badge/OpenGL_ES_3-FF6F00?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL ES 3" />
-    <img src="https://img.shields.io/badge/Real--time_Orbits-00BFFF?style=for-the-badge&logo=satellite&logoColor=white" alt="Real-time Orbits" />
-  </p>
-</td>
-    <td align="center" width="50%">
-      <h3 align="center">Deluxe</h3>
-      <a href="https://github.com/danielitoCode/Deluxe" target="_blank">
-        <div style="height:200px;overflow:hidden">
-          <img src="./deluxe2.png" width="100%" alt="Deluxe" />
-        </div>
-      </a>
-      <p>Android app for jewelry stores (catalog/management). Project focused on UI and product flow.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-        <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Room" />
-        <img src="https://img.shields.io/badge/Koin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Koin" />
-        <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3 align="center">Iris 🔬 <em>(experimental)</em></h3>
-      <a href="https://github.com/danielitoCode/Iris" target="_blank">
-        <div style="height:200px;overflow:hidden">
-          <img src="./iris.svg" width="100%" alt="Iris" />
-        </div>
-      </a>
-      <p>Experimental project for object detection with local AI using <strong>YOLO11s</strong> — fully on-device inference, no server.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-        <img src="https://img.shields.io/badge/YOLO11s-111827?style=for-the-badge&logo=opencv&logoColor=white" alt="YOLO11s" />
-        <img src="https://img.shields.io/badge/On--device_AI-0B5FFF?style=for-the-badge&logo=ai&logoColor=white" alt="On-device AI" />
-        <img src="https://img.shields.io/badge/CameraX-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="CameraX" />
-      </p>
-    </td>
-    <td width="50%"/>
-  </tr>
-</table>
+**📱 Mobile**
 
-## Projects in development
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android Jetpack](https://img.shields.io/badge/Android_Jetpack-4285F4?style=flat-square&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-F7931E?style=flat-square&logo=kotlin&logoColor=white)
+![OpenGL ES](https://img.shields.io/badge/OpenGL_ES_3-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3 align="center">AppMakeUp</h3>
-      <a href="https://github.com/danielitoCode/AppMakeup" target="_blank">
-        <div style="height:200px;overflow:hidden">
-          <img src="./appmakeup.svg" width="100%" alt="AppMakeUp" />
-        </div>
-      </a>
-      <p>Tooling to model and generate base structures of apps in a predictable way (architecture-first).</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" />
-        <img src="https://img.shields.io/badge/Compose_Desktop-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Compose Desktop" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3 align="center">compose_svelted</h3>
-      <a href="https://github.com/danielitoCode/compose_svelted" target="_blank">
-        <div style="height:200px;overflow:hidden">
-          <img src="./svelted.png" width="100%" alt="compose_svelted" />
-        </div>
-      </a>
-      <p>UI framework for Svelte inspired by Jetpack Compose: declarative layout, immutable modifiers, and Compose-style navigation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-      </p>
-    </td>
-  </tr>
-</table>
+**🌐 Frontend**
 
-## Web Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3 align="center">☀️Solux</h3>
-      <a href="https://github.com/danielitoCode/solux" target="_blank">
-        <div style="height:200px;overflow:hidden">
-          <img src="./solux_logo.png" width="100%" alt="dash_alejo_taller" />
-        </div>
-      </a>
-      <p>Plataforma web para la gestión de un negocio de instalación eléctrica y kits solares</p>
-      <p>
-        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3 align="center">Huellas</h3>
-      <a href="https://github.com/danielitoCode/dash_alejo_taller" target="_blank">
-        <div style="height:200px;overflow:hidden">
-          <img src="./icon_huellas.svg" width="100%" alt="dash_alejo_taller" />
-        </div>
-      </a>
-      <p>Plataforma de apoyo a familiares cubanos afectados por el conflicto Rusia-Ucrania.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3 align="center">dash_alejo_taller</h3>
-      <a href="https://github.com/danielitoCode/dash_alejo_taller" target="_blank">
-        <div style="height:200px;overflow:hidden">
-          <img src="./alejo_taller_dash.png" width="100%" alt="dash_alejo_taller" />
-        </div>
-      </a>
-      <p>Complementary web application in Svelte for <strong>AlejoTaller</strong>: management of products for sale for the electronics store.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-      </p>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
+**☁️ Backend & Serverless**
 
-## Functions serverless & Cloudflare Workers
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3 align="center">starter-function</h3>
-      <a href="https://github.com/danielitoCode/starter-function" target="_blank">
-        <div style="height:200px;overflow:hidden">
-          <img src="./logo_brand.png" width="100%" alt="starter-function" />
-        </div>
-      </a>
-      <p>Template/starter for serverless functions and Workers (ideal for lightweight APIs and automations).</p>
-      <p>
-        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
-        <img src="https://img.shields.io/badge/Wrangler-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Wrangler" />
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3 align="center">google_auth_appwrite</h3>
-      <a href="https://github.com/danielitoCode/google_auth_appwrite" target="_blank">
-        <div style="height:200px;overflow:hidden">
-          <img src="./logo_brand.png" width="100%" alt="google_auth_appwrite" />
-        </div>
-      </a>
-      <p>Cloudflare Worker that implements an authentication flow with Google OAuth for <strong>Appwrite BaaS</strong>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-        <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3 align="center">telegram_messages</h3>
-      <a href="https://github.com/danielitoCode/telegram_messages" target="_blank">
-        <div style="height:200px;overflow:hidden">
-          <img src="./logo_brand.png" width="100%" alt="telegram_messages" />
-        </div>
-      </a>
-      <p>Node.js function to send messages to a Telegram group from the backend, using the BotFather API.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-        <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3 align="center">list_users</h3>
-      <a href="https://github.com/danielitoCode/list_users" target="_blank">
-        <div style="height:200px;overflow:hidden">
-          <img src="./logo_brand.png" width="100%" alt="list_users" />
-        </div>
-      </a>
-      <p>Serverless function in Appwrite to list users with access control by <strong>Admin</strong> role.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      </p>
-    </td>
-  </tr>
-</table>
+**🎨 Design & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## Connect
+## 🚀 Featured projects
 
-- Email: `daniel.imbert96@gmail.com`
-- LinkedIn: `www.linkedin.com/in/daniel-imbert-68b4952b4`
+### 📱 Android
 
-Last update: marzo 2026
+| Project | Description | Stack |
+|:--|:--|:--|
+| **[🧊 Spatial](https://github.com/danielitoCode/Spatial)** | Declarative 3D rendering library for Android, inspired by Jetpack Compose. *No-pain OpenGL.* | `Kotlin 2.x` `OpenGL ES 3.0` `Compose` |
+| **[🛒 AlejoTaller](https://github.com/danielitoCode/AlejoTaller)** | Electronics store app with modular architecture (features + core), DI, local persistence and an Appwrite backend. | `Kotlin` `Room` `Koin` `Appwrite` |
+| **[🛰️ SatExplorer](https://github.com/danielitoCode/SatExplorer)** | Immersive real-time 3D visualization of satellites and orbits, built on top of Spatial. | `Spatial` `OpenGL ES 3` `Compose` `Koin` |
+| **[💎 Deluxe](https://github.com/danielitoCode/Deluxe)** | Catalog and management app for jewelry stores, focused on UI and product flow. | `Kotlin` `Room` `Koin` `Appwrite` |
+| **[🔬 Iris](https://github.com/danielitoCode/Iris)** *(experimental)* | Object detection with fully on-device AI (YOLO11s). No server required. | `Kotlin` `YOLO11s` `CameraX` |
+
+### 🧪 In development
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| **[🧰 AppMakeUp](https://github.com/danielitoCode/AppMakeup)** | Architecture-first tooling to model and generate predictable base structures for apps. | `Kotlin` `KMP` `Compose Desktop` |
+| **[🧩 compose_svelted](https://github.com/danielitoCode/compose_svelted)** | UI framework for Svelte inspired by Jetpack Compose: declarative layout, immutable modifiers and Compose-style navigation. | `Svelte` `TypeScript` `Vite` |
+
+### 🌐 Web
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| **[☀️ Solux](https://github.com/danielitoCode/solux)** | Web platform to manage an electrical installation and solar kit business. | `Svelte` `TypeScript` `Supabase` `Vite` |
+| **[🐾 Huellas](https://github.com/danielitoCode/dash_alejo_taller)** | Support platform for Cuban families affected by the Russia–Ukraine conflict. | `Svelte` `TypeScript` `Supabase` `Vite` |
+| **[📊 dash_alejo_taller](https://github.com/danielitoCode/dash_alejo_taller)** | Svelte dashboard for AlejoTaller: product management for the electronics store. | `Svelte` `TypeScript` `Appwrite` `Vite` |
+
+### ⚡ Serverless & Cloudflare Workers
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| **[🧱 starter-function](https://github.com/danielitoCode/starter-function)** | Template for serverless functions and Workers: lightweight APIs and automations. | `Cloudflare Workers` `Wrangler` `JavaScript` |
+| **[🔐 google_auth_appwrite](https://github.com/danielitoCode/google_auth_appwrite)** | Cloudflare Worker implementing a Google OAuth flow for Appwrite. | `Workers` `TypeScript` `Appwrite` `OAuth` |
+| **[💬 telegram_messages](https://github.com/danielitoCode/telegram_messages)** | Node.js function to send backend messages to a Telegram group via the BotFather API. | `Node.js` `Telegram` `Appwrite` |
+| **[👥 list_users](https://github.com/danielitoCode/list_users)** | Appwrite function to list users with Admin-role access control. | `Node.js` `Appwrite` |
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=danielitoCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielitoCode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielitoCode&theme=tokyonight&hide_border=true" alt="Streak stats" />
+
+</div>
+
+---
+
+## 🤝 Let's connect
+
+I'm open to collaborations and interesting Android / Kotlin projects.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-imbert-68b4952b4)
+[![Email](https://img.shields.io/badge/Email-Write_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.imbert96@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7F52FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danieldevsite.lovable.app)
+
+<sub>⭐ If you like any of my projects, a star on the repo goes a long way.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="Footer" />
+
+</div>
