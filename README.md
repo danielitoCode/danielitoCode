@@ -172,7 +172,7 @@ Android Developer (Kotlin) focused on architecture, best practices, and tools to
       <h3 align="center">☀️Solux</h3>
       <a href="https://github.com/danielitoCode/solux" target="_blank">
         <div style="height:200px;overflow:hidden">
-          <img src="./solux_icon_clean.svg" width="100%" alt="dash_alejo_taller" />
+          <img src="./solux_logo.png" width="100%" alt="dash_alejo_taller" />
         </div>
       </a>
       <p>Plataforma web para la gestión de un negocio de instalación eléctrica y kits solares</p>
