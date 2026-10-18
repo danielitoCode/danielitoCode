@@ -169,7 +169,7 @@ Android Developer (Kotlin) focused on architecture, best practices, and tools to
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3 align="center">Solux</h3>
+      <h3 align="center">☀️Solux</h3>
       <a href="https://github.com/danielitoCode/solux" target="_blank">
         <div style="height:200px;overflow:hidden">
           <img src="./solux_icon_clean.svg" width="100%" alt="dash_alejo_taller" />
