@@ -28,6 +28,11 @@ Android Developer (Kotlin) focused on architecture, best practices, and tools to
   <a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" /></a>
 </p>
 
+### Baas
+<p align="left">
+  <a href="https://appwrite.io/" target="_blank"><img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" /></a>
+</p>
+
 ### Design & Tools
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
