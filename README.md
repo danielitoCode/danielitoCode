@@ -187,7 +187,7 @@ Android Developer (Kotlin) focused on architecture, best practices, and tools to
       <h3 align="center">Huellas</h3>
       <a href="https://github.com/danielitoCode/dash_alejo_taller" target="_blank">
         <div style="height:200px;overflow:hidden">
-          <img src="./icon_huellas.png" width="100%" alt="dash_alejo_taller" />
+          <img src="./icon_huellas.svg" width="100%" alt="dash_alejo_taller" />
         </div>
       </a>
       <p>Plataforma de apoyo a familiares cubanos afectados por el conflicto Rusia-Ucrania.</p>
