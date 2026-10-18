@@ -31,6 +31,7 @@ Android Developer (Kotlin) focused on architecture, best practices, and tools to
 ### Baas
 <p align="left">
   <a href="https://appwrite.io/" target="_blank"><img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" /></a>
+  <a a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
 </p>
 
 ### Design & Tools
