@@ -198,6 +198,8 @@ Android Developer (Kotlin) focused on architecture, best practices, and tools to
         <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <h3 align="center">dash_alejo_taller</h3>
       <a href="https://github.com/danielitoCode/dash_alejo_taller" target="_blank">
