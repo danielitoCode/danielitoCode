@@ -169,6 +169,36 @@ Android Developer (Kotlin) focused on architecture, best practices, and tools to
 <table>
   <tr>
     <td align="center" width="50%">
+      <h3 align="center">Solux</h3>
+      <a href="https://github.com/danielitoCode/solux" target="_blank">
+        <div style="height:200px;overflow:hidden">
+          <img src="./solux_icon_clean.svg" width="100%" alt="dash_alejo_taller" />
+        </div>
+      </a>
+      <p>Plataforma web para la gestión de un negocio de instalación eléctrica y kits solares</p>
+      <p>
+        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3 align="center">Huellas</h3>
+      <a href="https://github.com/danielitoCode/dash_alejo_taller" target="_blank">
+        <div style="height:200px;overflow:hidden">
+          <img src="./alejo_taller_dash.png" width="100%" alt="dash_alejo_taller" />
+        </div>
+      </a>
+      <p>Plataforma de apoyo a familiares cubanos afectados por el conflicto Rusia-Ucrania.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      </p>
+    </td>
+    <td align="center" width="50%">
       <h3 align="center">dash_alejo_taller</h3>
       <a href="https://github.com/danielitoCode/dash_alejo_taller" target="_blank">
         <div style="height:200px;overflow:hidden">
